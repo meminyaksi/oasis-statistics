@@ -1,0 +1,26 @@
+[submodule "iqr/parcore"]
+	path = iqr/parcore
+	url = git@github.com:celeris-labs/parcore.git
+[submodule "iqr/celeris"]
+	path = iqr/celeris
+	url = git@github.com:celeris-labs/celeris.git
+[submodule "iqr/extension/duckdb"]
+	path = iqr/extension/duckdb
+	url = https://github.com/JonasDann/duckdb.git
+[submodule "iqr/extension/extension-ci-tools"]
+	path = iqr/extension/extension-ci-tools
+	url = https://github.com/duckdb/extension-ci-tools
+	branch = v1.5-variegata
+[submodule "zscore/parcore"]
+	path = zscore/parcore
+	url = git@github.com:celeris-labs/parcore.git
+[submodule "zscore/celeris"]
+	path = zscore/celeris
+	url = git@github.com:celeris-labs/celeris.git
+[submodule "zscore/extension/duckdb"]
+	path = zscore/extension/duckdb
+	url = https://github.com/JonasDann/duckdb.git
+[submodule "zscore/extension/extension-ci-tools"]
+	path = zscore/extension/extension-ci-tools
+	url = https://github.com/duckdb/extension-ci-tools
+	branch = v1.5-variegata
